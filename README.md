@@ -22,7 +22,8 @@
   📃 Project preview
 </h2>
 
-![image]()
+![image](https://github.com/marcoftmartins/boraCodar-06-boarding-pass/assets/47821731/87bdc05a-6dcd-42ff-a49d-dc1132bc207a>
+)
 
 ---
 
